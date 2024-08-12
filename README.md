@@ -1,7 +1,7 @@
 # SBF
 
 ### setup
-<sub> python setup.py </sub>
+```python setup.py```
 
 ### usage
-<sub> python sbf.py -h </sub>
+```python sbf.py -h```
